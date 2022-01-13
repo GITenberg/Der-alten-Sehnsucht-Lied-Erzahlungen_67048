@@ -1,0 +1,27 @@
+_repo: Der-alten-Sehnsucht-Lied-Erzahlungen_67048
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Herzog, Rudolf
+    birthdate: 1869
+    deathdate: 1943
+    gutenberg_agent_id: '25181'
+    url: http://www.gutenberg.org/2009/agents/25181
+    wikipedia: http://de.wikipedia.org/wiki/Rudolf_Herzog
+description: ''
+gutenberg_issued: '2021-12-30'
+identifiers:
+  gutenberg: '67048'
+language: de
+pgterms:marc905: 20200216022607herzog
+pgterms:marc906: '1906'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: Germany :J. G. Cotta'sche Buchhandlung Nachfolger,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Der alten Sehnsucht Lied: Erzählungen'
+url: http://www.gutenberg.org/ebooks/67048
